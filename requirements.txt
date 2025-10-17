@@ -1,0 +1,40 @@
+# Core ML and Data Processing
+torch>=2.0.0
+torchvision>=0.15.0
+tensorflow>=2.13.0
+transformers>=4.30.0
+scikit-learn>=1.3.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Computer Vision
+opencv-python>=4.8.0
+Pillow>=10.0.0
+
+# Web App and UI
+streamlit>=1.25.0
+streamlit-webrtc>=0.47.0
+
+# Music API and Audio
+spotipy>=2.23.0
+librosa>=0.10.0
+
+# Data Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Utilities
+requests>=2.31.0
+python-dotenv>=1.0.0
+joblib>=1.3.0
+
+# Jupyter Notebooks
+jupyter>=1.0.0
+ipython>=8.14.0
+notebook>=6.5.0
+
+# Testing and Development
+pytest>=7.4.0
+black>=23.7.0
+flake8>=6.0.0
